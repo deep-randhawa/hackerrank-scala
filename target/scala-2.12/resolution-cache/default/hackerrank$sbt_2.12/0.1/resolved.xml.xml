@@ -4,7 +4,7 @@
 		module="hackerrank$sbt_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20171119111912"
+		publication="20171119121056"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
