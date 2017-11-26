@@ -18,11 +18,11 @@ trait HackerRankProblem[A] {
 
   /**
     * URL at which the problem can be found
+    *
     * @return
     */
   def problemUrl: String
 
-  def answer = {
-    print(solution(input))
-  }
+  def answer = print(solution(input))
+
 }

@@ -1,9 +1,9 @@
 package util
 
 
-import WeekOfCode35.LuckyPurchase
+import WeekOfCode35.TripleRecursion
 object Runner {
   def main(args: Array[String]): Unit = {
-    LuckyPurchase.answer
+    TripleRecursion.answer
   }
 }
