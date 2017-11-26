@@ -1,9 +1,9 @@
 package util
 
 
-import WeekOfCode35.TripleRecursion
+import WeekOfCode35.Three_DSurfaceArea
 object Runner {
   def main(args: Array[String]): Unit = {
-    TripleRecursion.answer
+    Three_DSurfaceArea.answer
   }
 }
